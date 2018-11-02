@@ -1,0 +1,11 @@
+body{
+  font-family: 'BioRhyme', 'Helvetica', cursive, serif;
+}
+
+input {
+  letter-spacing: 1px;
+}
+
+#first-time {
+  letter-spacing: 8px;
+}
